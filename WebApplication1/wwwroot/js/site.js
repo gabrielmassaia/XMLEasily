@@ -25,3 +25,25 @@ function closeContent() {
 function downloadFile(filePath) {
     window.location.href = `/Home/Download?filePath=${encodeURIComponent(filePath)}`;
 }
+
+
+document.addEventListener("DOMContentLoaded", () => {
+    const btnVoltar = document.getElementById("btn-voltar");
+
+    // Simula abrir uma cotação
+    document.querySelectorAll(".btn-open").forEach(button => {
+        button.addEventListener("click", () => {
+            // Mostra o botão de voltar
+            btnVoltar.style.display = "block";
+        });
+    });
+
+    // Lógica para o botão de voltar
+    btnVoltar.addEventListener("click", () => {
+        // Esconde o botão de voltar
+        btnVoltar.style.display = "none";
+
+        // Lógica adicional para restaurar a visualização anterior
+        alert("Voltando à lista de cotações...");
+    });
+});

@@ -28,3 +28,4 @@ C:\XMLEasilly\XMLEasilyWeb2.0\XMLEasilyWeb2\WebApplication1\obj\Debug\net8.0\ref
 C:\XMLEasilly\XMLEasilyWeb2.0\XMLEasilyWeb2\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
 C:\XMLEasilly\XMLEasilyWeb2.0\XMLEasilyWeb2\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
 C:\XMLEasilly\XMLEasilyWeb2.0\XMLEasilyWeb2\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+C:\XMLEasilly\XMLEasilyWeb2.0\XMLEasilyWeb2\WebApplication1\obj\Debug\net8.0\WebApplication1.sourcelink.json

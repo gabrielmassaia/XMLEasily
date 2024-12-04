@@ -1,7 +1,11 @@
 body {
+    margin: 0;
     font-family: Arial, sans-serif;
-    background: linear-gradient(to bottom, #002147, #0057b8);
+    background: linear-gradient(to left, #0d1b2a, #1b263b, #23395b, #2c5282, #33415c);
+    background-attachment: fixed;
+    height: 100vh;
     color: white;
+    overflow-x: hidden;
 }
 
 .filters {
@@ -25,6 +29,15 @@ body {
     border-radius: 10px;
 }
 
+.actions {
+    display: flex; /* Alinha os botões em linha */
+    justify-content: center; /* Centraliza os botões no container */
+    gap: 20px;
+    margin: 20px 0;
+    position: relative;
+    border-color: red;
+}
+
 .file-list {
     max-height: 300px;
     overflow-y: auto;
@@ -36,12 +49,38 @@ body {
     padding: 5px;
 }
 
-.actions, .file-content {
+.file-content {
     margin: 20px auto;
+    display: flex;
+    justify-content: center;
 }
 
-.btn {
-    padding: 10px;
-    border: none;
-    border-radius: 5px;
+
+.title-main {
+    font-family: 'Arial', sans-serif; /* Escolha uma fonte agradável */
+    font-size: 2.5rem; /* Tamanho grande */
+    color: #333; /* Cor elegante */
+    text-align: left; /* Alinhamento à esquerda */
+    margin: 50px 0 0 20px; /* Margem para afastar das bordas */
+    opacity: 0; /* Começa invisível */
+    transform: translateX(-50px); /* Posição inicial fora da tela */
+    animation: slideIn 1.5s ease-out forwards; /* Animação para entrada */
 }
+
+/* Animação de entrada */
+@keyframes slideIn {
+    0% {
+        opacity: 0;
+        transform: translateX(-50px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+
+
+
+

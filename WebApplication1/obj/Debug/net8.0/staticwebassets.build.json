@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "aN++EVVlWGzsw2A7oerLq0fJ+sCajcRPEBAGjgbpdsM=",
+  "Hash": "5oB1OBOt3O/jN5y69bEP9HAcaMerRQCCUP2QZUkSV6A=",
   "Source": "WebApplication1",
   "BasePath": "_content/WebApplication1",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\XMLEasilly\\XMLEasilyWeb2.0\\XMLEasilyWeb2\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\XMLEasilly\\XMLEasilyWeb2.0\\XMLEasilyWeb2\\WebApplication1\\wwwroot\\css\\buttons.css",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\XMLEasilly\\XMLEasilyWeb2.0\\XMLEasilyWeb2\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "css/buttons.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\buttons.css"
     },
     {
       "Identity": "C:\\XMLEasilly\\XMLEasilyWeb2.0\\XMLEasilyWeb2\\WebApplication1\\wwwroot\\css\\site.css",

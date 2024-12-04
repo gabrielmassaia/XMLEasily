@@ -3,36 +3,20 @@
   "WorkspaceRootPath": "C:\\XMLEasilly\\XMLEasilyWeb2.0\\XMLEasilyWeb2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6E12AA52-77E5-40BF-9BC2-246FF43FC37A}|WebApplication1\\WebApplication1.csproj|c:\\xmleasilly\\xmleasilyweb2.0\\xmleasilyweb2\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6E12AA52-77E5-40BF-9BC2-246FF43FC37A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6E12AA52-77E5-40BF-9BC2-246FF43FC37A}|WebApplication1\\WebApplication1.csproj|c:\\xmleasilly\\xmleasilyweb2.0\\xmleasilyweb2\\webapplication1\\wwwroot\\css\\buttons.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6E12AA52-77E5-40BF-9BC2-246FF43FC37A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\css\\buttons.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E12AA52-77E5-40BF-9BC2-246FF43FC37A}|WebApplication1\\WebApplication1.csproj|c:\\xmleasilly\\xmleasilyweb2.0\\xmleasilyweb2\\webapplication1\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{6E12AA52-77E5-40BF-9BC2-246FF43FC37A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{6E12AA52-77E5-40BF-9BC2-246FF43FC37A}|WebApplication1\\WebApplication1.csproj|c:\\xmleasilly\\xmleasilyweb2.0\\xmleasilyweb2\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E12AA52-77E5-40BF-9BC2-246FF43FC37A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6E12AA52-77E5-40BF-9BC2-246FF43FC37A}|WebApplication1\\WebApplication1.csproj|c:\\xmleasilly\\xmleasilyweb2.0\\xmleasilyweb2\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6E12AA52-77E5-40BF-9BC2-246FF43FC37A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E12AA52-77E5-40BF-9BC2-246FF43FC37A}|WebApplication1\\WebApplication1.csproj|c:\\xmleasilly\\xmleasilyweb2.0\\xmleasilyweb2\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E12AA52-77E5-40BF-9BC2-246FF43FC37A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E12AA52-77E5-40BF-9BC2-246FF43FC37A}|WebApplication1\\WebApplication1.csproj|c:\\xmleasilly\\xmleasilyweb2.0\\xmleasilyweb2\\webapplication1\\models\\filemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E12AA52-77E5-40BF-9BC2-246FF43FC37A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\filemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E12AA52-77E5-40BF-9BC2-246FF43FC37A}|WebApplication1\\WebApplication1.csproj|c:\\xmleasilly\\xmleasilyweb2.0\\xmleasilyweb2\\webapplication1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E12AA52-77E5-40BF-9BC2-246FF43FC37A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6E12AA52-77E5-40BF-9BC2-246FF43FC37A}|WebApplication1\\WebApplication1.csproj|c:\\xmleasilly\\xmleasilyweb2.0\\xmleasilyweb2\\webapplication1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{6E12AA52-77E5-40BF-9BC2-246FF43FC37A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E12AA52-77E5-40BF-9BC2-246FF43FC37A}|WebApplication1\\WebApplication1.csproj|c:\\xmleasilly\\xmleasilyweb2.0\\xmleasilyweb2\\webapplication1\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{6E12AA52-77E5-40BF-9BC2-246FF43FC37A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -51,50 +35,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "C:\\XMLEasilly\\XMLEasilyWeb2.0\\XMLEasilyWeb2\\WebApplication1\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "C:\\XMLEasilly\\XMLEasilyWeb2.0\\XMLEasilyWeb2\\WebApplication1\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-03T23:57:44.666Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "site.js",
-              "DocumentMoniker": "C:\\XMLEasilly\\XMLEasilyWeb2.0\\XMLEasilyWeb2\\WebApplication1\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\js\\site.js",
-              "ToolTip": "C:\\XMLEasilly\\XMLEasilyWeb2.0\\XMLEasilyWeb2\\WebApplication1\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "WebApplication1\\wwwroot\\js\\site.js",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAowBsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-12-03T23:54:28.74Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\XMLEasilly\\XMLEasilyWeb2.0\\XMLEasilyWeb2\\WebApplication1\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\XMLEasilly\\XMLEasilyWeb2.0\\XMLEasilyWeb2\\WebApplication1\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "WebApplication1\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-03T23:54:16.129Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\XMLEasilly\\XMLEasilyWeb2.0\\XMLEasilyWeb2\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\XMLEasilly\\XMLEasilyWeb2.0\\XMLEasilyWeb2\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-03T23:53:54.059Z",
+              "WhenOpened": "2024-12-04T10:53:12.962Z",
               "EditorCaption": ""
             },
             {
@@ -105,45 +53,36 @@
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\XMLEasilly\\XMLEasilyWeb2.0\\XMLEasilyWeb2\\WebApplication1\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-03T23:53:41.763Z"
+              "WhenOpened": "2024-12-03T23:53:41.763Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FileModel.cs",
-              "DocumentMoniker": "C:\\XMLEasilly\\XMLEasilyWeb2.0\\XMLEasilyWeb2\\WebApplication1\\Models\\FileModel.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Models\\FileModel.cs",
-              "ToolTip": "C:\\XMLEasilly\\XMLEasilyWeb2.0\\XMLEasilyWeb2\\WebApplication1\\Models\\FileModel.cs",
-              "RelativeToolTip": "WebApplication1\\Models\\FileModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T23:53:25.586Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\XMLEasilly\\XMLEasilyWeb2.0\\XMLEasilyWeb2\\WebApplication1\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\XMLEasilly\\XMLEasilyWeb2.0\\XMLEasilyWeb2\\WebApplication1\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "WebApplication1\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T23:52:45.646Z"
+              "DocumentIndex": 0,
+              "Title": "buttons.css",
+              "DocumentMoniker": "C:\\XMLEasilly\\XMLEasilyWeb2.0\\XMLEasilyWeb2\\WebApplication1\\wwwroot\\css\\buttons.css",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\css\\buttons.css",
+              "ToolTip": "C:\\XMLEasilly\\XMLEasilyWeb2.0\\XMLEasilyWeb2\\WebApplication1\\wwwroot\\css\\buttons.css",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\css\\buttons.css",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-04T00:20:04.038Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\XMLEasilly\\XMLEasilyWeb2.0\\XMLEasilyWeb2\\WebApplication1\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\XMLEasilly\\XMLEasilyWeb2.0\\XMLEasilyWeb2\\WebApplication1\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T23:52:14.116Z"
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\XMLEasilly\\XMLEasilyWeb2.0\\XMLEasilyWeb2\\WebApplication1\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\XMLEasilly\\XMLEasilyWeb2.0\\XMLEasilyWeb2\\WebApplication1\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-03T23:54:16.129Z",
+              "EditorCaption": ""
             }
           ]
         },
