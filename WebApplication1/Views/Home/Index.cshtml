@@ -1,0 +1,39 @@
+﻿@model List<Projeto.Models.FileModel>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="filters">
+    <input type="date" id="dateFilter" name="dateFilter" class="filter-input" />
+    <select id="integratorFilter" name="integratorFilter" class="filter-input">
+        <option value="">Selecione uma integradora</option>
+        <option value="Integrator1">Integradora 1</option>
+        <option value="Integrator2">Integradora 2</option>
+        <!-- Adicione mais opções conforme necessário -->
+    </select>
+    <button class="btn btn-filter" onclick="applyFilters()">Filtrar</button>
+</div>
+
+<div class="container">
+    <h3>Arquivos Disponíveis</h3>
+    <div class="file-list">
+        @foreach (var file in Model)
+        {
+            <div class="file-item">
+                <span>@file.FileName (@file.LastModified.ToShortDateString())</span>
+                <button class="btn btn-open" onclick="openFile('@file.FilePath')">Abrir</button>
+                <button class="btn btn-download" onclick="downloadFile('@file.FilePath')">Download</button>
+            </div>
+        }
+    </div>
+</div>
+
+<div class="actions">
+    <button class="btn btn-refresh" onclick="location.reload()">Atualizar</button>
+    <button class="btn btn-clear" onclick="clearFilters()">Limpar</button>
+</div>
+
+<div id="file-content" class="file-content hidden">
+    <div id="content-display"></div>
+    <button class="btn btn-back" onclick="closeContent()">Voltar</button>
+</div>
